@@ -1,4 +1,4 @@
-# Retail-data-management-ETL
+# Retail-data-management-ETL- AWS GLUE
 An end-to-end cloud data engineering project built on AWS that ingests retail
 transaction and product data from Amazon S3, processes it through an AWS Glue
 ETL pipeline, and outputs aggregated results for analysis.
